@@ -1,0 +1,9 @@
+NOTES
+^^^^^
+
+++ added ability to seed pond with image information
+-- deleted unread vars in PoolConfig()
+** unrolled local vars in Pool() 
+-- deleted local vars in Pool() that had been unrolled and moved to new scope
+** unrolled init() into encapsulated methods
+** moved/reorganized class vars to make it easier to read
